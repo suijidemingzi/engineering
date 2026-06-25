@@ -4,5 +4,8 @@ python-dotenv==1.0.0
 requests==2.31.0
 pymysql==1.1.0
 pillow==11.0.0
-torch==2.4.1
-torchvision==0.19.1
+torch==2.12.1
+torchvision==0.17.2
+flask
+pandas
+openpyxl
